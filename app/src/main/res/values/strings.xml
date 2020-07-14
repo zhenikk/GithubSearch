@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Github Search</string>
+    <string name="login_to_github">Login to GitHub</string>
+    <string name="show_history">Show history</string>
+    <string name="search">Search</string>
+    <string name="go_to_search">Go to search</string>
+    <string name="password">Password</string>
+    <string name="email_nick">Email/nick</string>
+    <string name="viewed">Viewed</string>
+    <string name="at_this_moment_supports_auth_without_two_factor_enabled">At this moment app supports auth without two-factor enabled</string>
+    <string name="hi_here_is_simple_app_for_searching_github_repositories_n_please_login_before_search_repositories">Hi! Here is simple app for searching github repositories.\nPlease Login before search repositories)</string>
+</resources>
